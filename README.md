@@ -6,11 +6,11 @@
 
   Vous pourrez retrouver sur mon site des articles et des cours de programmation et d'informatique 🐙 : www.codingood.com 
   ### Spécialisé dans  💬 : 
-  - 🤖 L'intelligence artificielle. 
-  - 📕 La fouille de données. 
-  - 💻 L'optimisation de code.
-  - 📀 Développement logiciel.
-  - 🖥 Développement web.
+  - 🤖 L'intelligence artificielle
+  - 📕 La fouille de données
+  - 💻 L'optimisation de code
+  - 📀 Développement logiciel
+  - 🖥 Développement web
   
   ![Alt Text](https://c.tenor.com/Q6eWYZhouNsAAAAM/good-morning.gif)
 

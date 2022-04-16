@@ -12,6 +12,9 @@
   - 📀 Développement logiciel.
   - 🖥 Développement web.
   
+  ![Alt Text](https://c.tenor.com/TmJWz4ZkSfQAAAAC/claire-dancing.gif)
+
+   
    
 <!--
 **hugueslopezpardo/hugueslopezpardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

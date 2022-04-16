@@ -12,7 +12,7 @@
   - 📀 Développement logiciel.
   - 🖥 Développement web.
   
-  ![Alt Text](https://c.tenor.com/TmJWz4ZkSfQAAAAC/claire-dancing.gif)
+  ![Alt Text](https://c.tenor.com/Q6eWYZhouNsAAAAM/good-morning.gif)
 
    
    

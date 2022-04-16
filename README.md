@@ -2,7 +2,7 @@
   ### ✨ Bienvenue à vous 🇫🇷 ! ✨
   
   Je suis Hugues Lopez Pardo, mon bût à travers mon github est de vous fournir un maximum de ressources 
-  sur les quels vous pourrez vous appuyez pour vos projets personnel ou professionnel ! 😄
+  sur les quels vous pourrez vous appuyer pour vos projets personnel ou professionnel ! 😄
 
   Vous pourrez retrouver sur mon site des articles et des cours de programmation et d'informatique 🐙 : www.codingood.com 
   ### Spécialisé dans  💬 : 

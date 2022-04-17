@@ -21,8 +21,10 @@
    ![Alt Text](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
    ![Alt Text](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
    ![Alt Text](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+   ![Alt Text](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
    ![Alt Text](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
    ![Alt Text](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+   ![Alt Text](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
   ### Développement web
    ![Alt Text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

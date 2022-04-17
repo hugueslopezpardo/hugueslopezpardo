@@ -1,19 +1,54 @@
 
   ### ✨ Bienvenue à vous 🇫🇷 ! ✨
-  
+    
   Je suis Hugues Lopez Pardo, mon bût à travers mon github est de vous fournir un maximum de ressources 
   sur les quels vous pourrez vous appuyer pour vos projets personnel ou professionnel ! 😄 :octocat:
 
   Vous pourrez retrouver sur mon site des articles et des cours de programmation et d'informatique 🐙 : www.codingood.com 
+  
   ### Spécialisé dans  💬 : 
   - 🤖 L'intelligence artificielle
   - 📕 La fouille de données
   - 💻 L'optimisation de code
   - 📀 Développement logiciel
   - 🖥 Développement web
-  
-  ![Alt Text](https://c.tenor.com/Q6eWYZhouNsAAAAM/good-morning.gif)
 
+  ### Développement logiciel
+   ![Alt Text](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+   ![Alt Text](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+   ![Alt Text](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+   ![Alt Text](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+   ![Alt Text](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+  ### Développement web
+   ![Alt Text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+   ![Alt Text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+   ![Alt Text](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+   ![Alt Text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+   ![Alt Text](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+   
+   ![Alt Text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+   ![Alt Text](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+   ![Alt Text](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+   ![Alt Text](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![Alt Text](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+
+
+  ### Analyse de données
+   ![Alt Text](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+   
+  ### Base de données 
+   ![Alt Text](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+   ![Alt Text](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+   ![Alt Text](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+   ![Alt Text](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+  ### Merci à vous ! 
+ 
+   ![Alt Text](https://c.tenor.com/Q6eWYZhouNsAAAAM/good-morning.gif)
+  
    
    
 <!--

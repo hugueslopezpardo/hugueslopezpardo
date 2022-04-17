@@ -13,6 +13,10 @@
   - 📀 Développement logiciel
   - 🖥 Développement web
 
+  ### Système d'exploitation
+   ![Alt Text](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+   ![Alt Text](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+   
   ### Développement logiciel
    ![Alt Text](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
    ![Alt Text](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)

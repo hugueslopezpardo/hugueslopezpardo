@@ -1,8 +1,8 @@
 
   ### ✨ Bienvenue à vous 🇫🇷 ! ✨
     
-  Je suis Hugues Lopez Pardo, mon bût à travers mon github est de vous fournir un maximum de ressources 
-  sur lesquels vous pourrez vous appuyer pour vos projets personnel ou professionnel ! 😄 :octocat:
+  Je suis Hugues Lopez Pardo, mon but à travers mon github est de vous fournir un maximum de ressources 
+  sur lesquels vous pourrez vous appuyer pour vos projets personnels ou professionnels ! 😄 :octocat:
 
   Vous pourrez retrouver sur mon site des articles et des cours de programmation et d'informatique 🐙 : www.codingood.com 
   
